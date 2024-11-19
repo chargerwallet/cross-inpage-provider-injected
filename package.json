@@ -1,6 +1,6 @@
 {
   "name": "@chargerwallet/cross-inpage-provider-injected",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "keywords": [
     "cross-inpage-provider-injected"
   ],
@@ -47,7 +47,7 @@
     "@chargerwallet/desktop-bridge-injected": "4.0.0",
     "@chargerwallet/extension-bridge-injected": "4.0.0",
     "@chargerwallet/inpage-providers-hub": "4.1.0",
-    "@chargerwallet/native-bridge-injected": "4.0.0",
+    "@chargerwallet/native-bridge-injected": "4.0.1",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.0"
   }
